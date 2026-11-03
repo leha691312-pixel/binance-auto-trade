@@ -1,0 +1,7 @@
+config.json
+.env
+state.json
+state.json.tmp
+KILL
+__pycache__/
+*.pyc
